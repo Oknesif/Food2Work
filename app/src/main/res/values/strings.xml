@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food2Work</string>
+    <string name="network_error">Connection error!</string>
+    <string name="retry">retry</string>
+    <string name="search_term">Search Term</string>
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="info">INFO</string>
+    <string name="view_instructions">View instructions</string>
+    <string name="view_original">View Original</string>
+    <string name="social_rank">Social rank: %1$,.1f</string>
+</resources>
